@@ -66,5 +66,5 @@ Follow the same steps as in VS Code. You can run `NeuralNet.py` file directly in
 ```
     
 ## Notes
-- Ensure that no hardcoded paths are used; the dataset should be placed in the `CarEvaluation` folder..
+- Ensure that no hardcoded paths are used; the dataset should be placed in the `CarEvaluation` folder.
 - The dataset file is not included in this repository but must be downloaded separately from the provided link.
