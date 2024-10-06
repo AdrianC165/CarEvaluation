@@ -1,4 +1,4 @@
-Activation, Learning Rate, Epochs, Hidden layers, Training Accuracy, Training Error, Test Accuracy, Test Error,
+Activation, Learning Rate, Epochs, Hidden layers, Training Accuracy, Training Error, Test Accuracy, Test Error
 "Activation=logistic, LR=0.01, Epochs=100, Layers=2",0.8223938223938224,0.17760617760617758,0.8179190751445087,0.18208092485549132
 "Activation=logistic, LR=0.01, Epochs=100, Layers=3",0.832046332046332,0.16795366795366795,0.815028901734104,0.18497109826589597
 "Activation=logistic, LR=0.01, Epochs=200, Layers=2",0.833976833976834,0.16602316602316602,0.8236994219653179,0.17630057803468213
